@@ -1,6 +1,6 @@
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-15-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-16-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 ***
 
@@ -113,6 +113,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
   </tr>
   <tr>
     <td align="center"><a href="https://www.javascript.com/"><img src="https://avatars.githubusercontent.com/u/84038651?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Seanpm2001 JavaScript projects</b></sub></a><br /><a href="https://github.com/seanpm2001/Talla-Browser/commits?author=seanpm2001-JavaScript-lang" title="Code">💻</a> <a href="https://github.com/seanpm2001/Talla-Browser/commits?author=seanpm2001-JavaScript-lang" title="Documentation">📖</a> <a href="#projectManagement-seanpm2001-JavaScript-lang" title="Project Management">📆</a> <a href="#security-seanpm2001-JavaScript-lang" title="Security">🛡️</a> <a href="#data-seanpm2001-JavaScript-lang" title="Data">🔣</a> <a href="#content-seanpm2001-JavaScript-lang" title="Content">🖋</a> <a href="#design-seanpm2001-JavaScript-lang" title="Design">🎨</a> <a href="#maintenance-seanpm2001-JavaScript-lang" title="Maintenance">🚧</a> <a href="#ideas-seanpm2001-JavaScript-lang" title="Ideas, Planning, & Feedback">🤔</a></td>
+    <td align="center"><a href="https://github.com/Seanpm2001-JavaScriptPlusPlus-lang"><img src="https://avatars.githubusercontent.com/u/92553140?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Seanpm2001 JavaScript++ language</b></sub></a><br /><a href="https://github.com/seanpm2001/Talla-Browser/commits?author=seanpm2001-JavaScriptPlusPlus-lang" title="Code">💻</a> <a href="https://github.com/seanpm2001/Talla-Browser/commits?author=seanpm2001-JavaScriptPlusPlus-lang" title="Documentation">📖</a> <a href="#projectManagement-seanpm2001-JavaScriptPlusPlus-lang" title="Project Management">📆</a> <a href="#security-seanpm2001-JavaScriptPlusPlus-lang" title="Security">🛡️</a> <a href="#data-seanpm2001-JavaScriptPlusPlus-lang" title="Data">🔣</a> <a href="#content-seanpm2001-JavaScriptPlusPlus-lang" title="Content">🖋</a> <a href="#design-seanpm2001-JavaScriptPlusPlus-lang" title="Design">🎨</a> <a href="#maintenance-seanpm2001-JavaScriptPlusPlus-lang" title="Maintenance">🚧</a> <a href="#ideas-seanpm2001-JavaScriptPlusPlus-lang" title="Ideas, Planning, & Feedback">🤔</a></td>
   </tr>
 </table>
 

@@ -251,6 +251,23 @@
         "maintenance",
         "ideas"
       ]
+    },
+    {
+      "login": "seanpm2001-JavaScriptPlusPlus-lang",
+      "name": "Seanpm2001 JavaScript++ language",
+      "avatar_url": "https://avatars.githubusercontent.com/u/92553140?v=4",
+      "profile": "https://github.com/Seanpm2001-JavaScriptPlusPlus-lang",
+      "contributions": [
+        "code",
+        "doc",
+        "projectManagement",
+        "security",
+        "data",
+        "content",
+        "design",
+        "maintenance",
+        "ideas"
+      ]
     }
   ],
   "contributorsPerLine": 7,
