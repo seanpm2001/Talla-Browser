@@ -30,6 +30,23 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "talla-browser",
+      "name": "Talla Browser development",
+      "avatar_url": "https://avatars.githubusercontent.com/u/84749502?v=4",
+      "profile": "https://github.com/seanpm2001/Talla-Browser",
+      "contributions": [
+        "code",
+        "doc",
+        "projectManagement",
+        "security",
+        "data",
+        "content",
+        "design",
+        "maintenance",
+        "ideas"
+      ]
     }
   ],
   "contributorsPerLine": 7,
