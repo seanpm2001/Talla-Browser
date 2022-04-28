@@ -302,6 +302,23 @@
         "maintenance",
         "ideas"
       ]
+    },
+    {
+      "login": "seanpm2001-CSS-lang",
+      "name": "Seanpm2001 CSS3 projects",
+      "avatar_url": "https://avatars.githubusercontent.com/u/84206255?v=4",
+      "profile": "https://github.com/topics/css",
+      "contributions": [
+        "code",
+        "doc",
+        "projectManagement",
+        "security",
+        "data",
+        "content",
+        "design",
+        "maintenance",
+        "ideas"
+      ]
     }
   ],
   "contributorsPerLine": 7,
